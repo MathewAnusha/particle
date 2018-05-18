@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "random": false,
         "anim": {
           "enable": false,
-          "speed": 2,
+          "speed": 1,
           "opacity_min": 0.1,
           "sync": false
         }
